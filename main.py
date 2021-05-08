@@ -9,4 +9,8 @@ if number_in == 0:
 else:
   print("This is an odd number.")
 
-# print(number_in)
+#My teacher's way
+# if number % 2 == 0:
+#   print("This is an even number.")
+# else:
+#   print("This is an odd number.")
